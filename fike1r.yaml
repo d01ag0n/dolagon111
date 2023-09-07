@@ -299,7 +299,7 @@ dns:
     - 'static.adtidy.org'
     - 'adguardteam.github.io'
     - 'anti-ad.net'
-  nameserver-policy:
+  nameserver:
     - 218.104.78.2
     - 58.242.2.2
     - https://dns.alidns.com/dns-query
