@@ -10,6 +10,13 @@ geox-url:
   mmdb: "https://fastly.jsdelivr.net/gh/DustinWin/clash-geosite@release/Country-lite.mmdb"
 
 dns:
+  hosts:
+    'xp.apple.com':127.0.0.1 
+    'mesu.apple.com':127.0.0.1 
+    'gdmf.apple.com':127.0.0.1 
+    'ocsp.apple.com':127.0.0.1 
+    'appldnld.apple.com':127.0.0.1 
+    'world-gen.g.aaplimg.com':127.0.0.1 
   enable: true
   prefer-h3: true
   ipv6: false
