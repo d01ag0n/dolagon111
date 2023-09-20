@@ -1,12 +1,3 @@
-hosts:
-   'time.android.com': 203.107.6.88
-   'time.facebook.com': 203.107.6.88  
-   'xp.apple.com': 127.0.0.1
-   'mesu.apple.com': 127.0.0.1
-   'gdmf.apple.com': 127.0.0.1
-   'ocsp.apple.com': 127.0.0.1
-   'appldnld.apple.com': 127.0.0.1
-   'world-gen.g.aaplimg.com': 127.0.0.1
 unified-delay: false
 tcp-concurrent: true
 global-client-fingerprint: chrome
